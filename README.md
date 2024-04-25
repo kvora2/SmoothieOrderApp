@@ -28,3 +28,17 @@ SmoothieOrderApp is a mobile application developed using React Native that simpl
 - **JavaScript**: Programming language 📜
 - **Redux**: State management for efficient data handling 🔄
 - **localStorage**: Data management for storing order history locally on the device 📦
+
+## 🚀 Installation and Demonstration
+
+To run this app locally:
+
+1. 📁 Redirect to `Restaurant-kelvin` dir
+
+2. 📦 Run `npm i`
+
+3. 🚀 Start the app with `npx expo start` or `npx expo start --tunnel`
+
+4. 📱 Install `Expo Go` on your Emulator or actual mobile phone.
+
+5. 📸 Scan the App QR code from the running app and use the app
