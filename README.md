@@ -33,7 +33,7 @@ SmoothieOrderApp is a mobile application developed using React Native that simpl
 
 To run this app locally:
 
-1. 📁 Redirect to `Restaurant-kelvin` dir
+1. 📁 Redirect to `SmoothieOrderApp` dir
 
 2. 📦 Run `npm i`
 
